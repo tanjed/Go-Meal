@@ -1,4 +1,4 @@
-package models
+package controllers
 
 type Expense struct{
 	Id int

@@ -1,4 +1,4 @@
-package models
+package controllers
 
 type Income struct{
 	Id int
